@@ -1,7 +1,7 @@
 function [] =demo1()
     clear all;
 
-    dataDirName = '/lapmal/project/datasets/matrixFact/';
+    dataDirName = './data';
     seed = 1;
     dataName = 'sushi3a';
 
